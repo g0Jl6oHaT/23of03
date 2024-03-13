@@ -20,4 +20,4 @@ superscripts2
 
 $$ E=mc^2 $$
 
-http://rmarkdown.rstudio.com/
+[A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
