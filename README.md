@@ -19,6 +19,7 @@ superscript<sup>s2</sup>
 ``Monospaced text (e.g., code)``
 
 $$ E=mc^2 $$
+$$ E=mc^2 $$
 
 [A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
 
