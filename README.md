@@ -14,7 +14,7 @@
 
 ~~зачеркнутый~~
 
-superscripts2
+superscript<sup>s2</sup>
 
 ``Monospaced text (e.g., code)``
 
