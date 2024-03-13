@@ -21,7 +21,7 @@ superscript<sup>s2</sup>
 
 ``Monospaced text (e.g., code)``
 
-An inline equation, *E=mc^2*. An equation block (below) 
+An inline equation, $E=mc^2$. An equation block (below) 
 
 $$ E=mc^2 $$
 
