@@ -18,6 +18,6 @@ superscripts2
 
 ``Monospaced text (e.g., code)``
 
-
-
 $$ E=mc^2 $$
+
+http://rmarkdown.rstudio.com/
