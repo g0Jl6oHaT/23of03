@@ -21,3 +21,8 @@ superscript<sup>s2</sup>
 $$ E=mc^2 $$
 
 [A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
+
+1. Пункт первый
+    - Подпункт первый
+    - Подпункт второй
+2. Пункт второй
